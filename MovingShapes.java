@@ -205,8 +205,7 @@ public class MovingShapes {
     }
 
     public static void main(String[] args) {
-        System.out.println("UTSA - Fall 2020 - cs1083 - Section 003 - Project 3 - Written by Austin Moore");
-        System.out.println("");
+
         System.out.print("Please input width, height of the panel, # of shapes, # of times to move followed by the shape, size, color, orientation, and speed of every shape: ");
 
         pWidth = scnr.nextInt();
